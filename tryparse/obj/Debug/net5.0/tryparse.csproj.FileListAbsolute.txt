@@ -1,0 +1,16 @@
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.csproj.AssemblyReference.cache
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.AssemblyInfoInputs.cache
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.AssemblyInfo.cs
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.csproj.CoreCompileInputs.cache
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\tryparse.exe
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\tryparse.deps.json
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\tryparse.runtimeconfig.json
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\tryparse.runtimeconfig.dev.json
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\tryparse.dll
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\ref\tryparse.dll
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\bin\Debug\net5.0\tryparse.pdb
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.dll
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\ref\tryparse.dll
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.pdb
+C:\Users\zakrisson.ronja\Desktop\prr\tryparse\tryparse\obj\Debug\net5.0\tryparse.genruntimeconfig.cache
